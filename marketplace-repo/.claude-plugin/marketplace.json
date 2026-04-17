@@ -1,0 +1,38 @@
+{
+  "name": "sciqlab-supply-chain-marketplace",
+  "owner": {
+    "name": "SCIQLab",
+    "email": "coachtauseef@gmail.com"
+  },
+  "metadata": {
+    "description": "SCIQLab Supply Chain AI Agents — demand exception analysis, supplier risk scoring, and a multi-agent orchestrator for end-to-end S&OP reviews.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "sciqlab-supply-chain",
+      "source": "./plugins/sciqlab-supply-chain",
+      "description": "Three AI agents for supply chain operations: demand exception analyzer (MAPE, WMAPE, bias detection), supplier risk assessment (6-dimension scoring with color-coded Excel reports), and a multi-agent orchestrator that combines both for integrated S&OP reviews.",
+      "version": "1.0.0",
+      "author": {
+        "name": "SCIQLab (Tauseef)"
+      },
+      "homepage": "https://github.com/tauseef-cmyk/Supply-Chain-Multi-Orchestrator-AI-Agent-Plug-ins",
+      "repository": "https://github.com/tauseef-cmyk/Supply-Chain-Multi-Orchestrator-AI-Agent-Plug-ins",
+      "license": "MIT",
+      "keywords": [
+        "supply-chain",
+        "demand-planning",
+        "supplier-risk",
+        "forecast-accuracy",
+        "MAPE",
+        "WMAPE",
+        "S&OP",
+        "procurement",
+        "multi-agent",
+        "orchestrator"
+      ],
+      "category": "supply-chain"
+    }
+  ]
+}

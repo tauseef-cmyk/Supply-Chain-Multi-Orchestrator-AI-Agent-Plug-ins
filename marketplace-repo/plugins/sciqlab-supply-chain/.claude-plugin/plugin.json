@@ -1,0 +1,17 @@
+{
+  "name": "sciqlab-supply-chain",
+  "version": "1.0.0",
+  "description": "SCIQLab Supply Chain AI Agents — demand exception analysis (MAPE, WMAPE, bias detection), supplier risk scoring across 6 dimensions with color-coded Excel reports, and a multi-agent orchestrator that combines both for end-to-end S&OP reviews.",
+  "author": {
+    "name": "SCIQLab"
+  },
+  "keywords": [
+    "supply-chain",
+    "demand-planning",
+    "supplier-risk",
+    "forecast-accuracy",
+    "MAPE",
+    "S&OP",
+    "procurement"
+  ]
+}

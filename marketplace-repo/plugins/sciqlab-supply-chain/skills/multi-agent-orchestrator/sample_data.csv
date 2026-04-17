@@ -1,0 +1,5 @@
+sku,actual,forecast,supplier,otif,tenure_years,country
+SKU001,450,380,Supplier A,0.78,3,Mexico
+SKU002,120,145,Supplier B,0.91,1,China
+SKU003,890,620,Supplier C,0.85,5,Canada
+SKU004,200,195,Supplier D,0.95,7,USA
